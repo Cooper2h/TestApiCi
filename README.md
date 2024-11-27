@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ya3yrwure2o3s8k0?svg=true)](https://ci.appveyor.com/project/Cooper2h/testapici)
